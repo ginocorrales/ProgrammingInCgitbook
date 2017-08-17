@@ -49,3 +49,7 @@ int printf(const char *format, ...)
 
 int putchar\(int c\)
 
+## Ref
+
+[Lecture1](https://github.com/sean8purdue/ProgrammingInCgitbook/blob/master/file-io/lectures/fileIO_ZhiyuanLi.pdf)\_ZhiyuanLi
+
