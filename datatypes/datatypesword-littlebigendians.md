@@ -5,4 +5,6 @@
 
   
 Ref:
-Ninghui [Li](datatypes/lecture/dataTypesWordEndians_Li.pdf)
+Ninghui [Li](./datatypes/lecture/dataTypesWordEndians_Li.pdf)
+Ninghui [Li](dataTypesWordEndians_Li.pdf)
+
