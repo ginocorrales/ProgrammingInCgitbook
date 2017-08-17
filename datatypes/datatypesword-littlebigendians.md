@@ -15,6 +15,9 @@ Zhiyuan [Li4](datatypes/lecture/dataTypesWordEndians_Li.pdf)
 
 Zhiyuan [Li5](file-io/lectures/fileIO_ZhiyuanLi.pdf)
 
+Zhiyuan [Li6](lecture/dataTypesWordEndians_Li.pdf)
+
+Zhiyuan [Li7](./lecture/dataTypesWordEndians_Li.pdf)
 
 
 [Lecture1](https://github.com/sean8purdue/ProgrammingInCgitbook/blob/master/file-io/lectures/fileIO_ZhiyuanLi.pdf)
