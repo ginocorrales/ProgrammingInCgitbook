@@ -41,3 +41,7 @@ Some data types are not interpreted the same on different platforms, they are **
 
 Zhiyuan [Li](https://github.com/sean8purdue/ProgrammingInCgitbook/blob/master/datatypes/lecture/dataTypesWordEndians_Li.pdf)
 
+Zhiyuan [Li2](/datatypes/lecture/dataTypesWordEndians_Li.pdf)
+
+
+
