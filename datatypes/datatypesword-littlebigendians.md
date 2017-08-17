@@ -37,6 +37,18 @@ Some data types are not interpreted the same on different platforms, they are **
 
 `sizeof( x )` returns the size **in bytes** of the objectx\(either a variable or a type\) on the current architecture.![](/datatypes/lecture/dataSize.png)
 
+## 2's complement (to be continued)
+The binary representation of negation of an integer n is obtained by
+
+* First negate n bit-wise
+* Add 1 to the least significant bit
+
+Example (8-bit data representation)
+> 1’s bit pattern is 0000 0001
+> Negation result: 11111110
+> Add binary 1, we get: 11111111
+
+
 ## Ref:
 
 Zhiyuan [Li](https://github.com/sean8purdue/ProgrammingInCgitbook/blob/master/datatypes/lecture/dataTypesWordEndians_Li.pdf)

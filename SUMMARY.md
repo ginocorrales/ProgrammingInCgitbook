@@ -6,13 +6,21 @@
 
 * [DataTypes\_Word\_LittleBigEndians](datatypes/datatypesword-littlebigendians.md)
   * [Struct](datatypes/datatypesword-littlebigendians/struct.md)
+  * [float and double](datatypes/datatypesword-littlebigendians/float-and-double.md)
+  * [cast](datatypes/datatypesword-littlebigendians/cast.md)
 * [Memory Alignment](datatypes/memory-alignment.md)
 * [Memory Layout of C Programs](datatypes/memory-layout-of-c-programs.md)
-* [float and double](datatypes/float-and-double.md)
+
+## ArrayAndString
+
+* [Array](arrayandstring/array.md)
 
 ## pointer
 
-* pointer address
+* [Basic Pointer](pointer/basic-pointer.md)
+* [pointer address](pointer/pointer-address.md)
+* [function pointer](pointer/function-pointer.md)
+* [ArrayVsPointer](pointer/arrayvspointer.md)
 
 ## File IO
 
