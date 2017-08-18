@@ -8,6 +8,7 @@
   * [Struct](datatypes/datatypesword-littlebigendians/struct.md)
   * [float and double](datatypes/datatypesword-littlebigendians/float-and-double.md)
   * [cast](datatypes/datatypesword-littlebigendians/cast.md)
+  * [char](datatypes/datatypesword-littlebigendians/char.md)
 * [Memory Alignment](datatypes/memory-alignment.md)
 * [Memory Layout of C Programs](datatypes/memory-layout-of-c-programs.md)
 
